@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#000D38;}
+	.st1{fill:#00AAE7;}
+	.st2{font-family:'Poppins-Light';}
+	.st3{font-size:36px;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Poppins-SemiBold';}
+	.st6{font-size:18px;}
+	.st7{fill:#E5FFFF;}
+	.st8{fill:#000D38;}
+	.st9{font-family:'Poppins-Medium';}
+	.st10{font-size:15px;}
+	.st11{fill:none;stroke:#00AAE7;stroke-width:2;}
+	.st12{fill:none;stroke:#00AAE7;stroke-width:2;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#E5FFFF;stroke-width:2;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-94" y="156" width="799.9" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="st0" points="-94.1,156 -94.1,636 705.9,636 705.9,156 -94.1,156 		"/>
+		<polygon class="st0" points="-94.1,156 -94.1,246 705.9,246 705.9,156 -94.1,156 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 489.5597 217)" class="st1 st2 st3">Language</text>
+	<path class="st1" d="M-5.1,302c-2.2,0-4,1.8-4,4v42c0,2.2,1.8,4,4,4h272c2.2,0,4-1.8,4-4v-42c0-2.2-1.8-4-4-4H-5.1L-5.1,302z"/>
+	<text transform="matrix(1 0 0 1 18.2238 333.4453)" class="st4 st5 st6">English</text>
+	<path class="st7" d="M-5.1,372c-2.2,0-4,1.8-4,4v42c0,2.2,1.8,4,4,4h272c2.2,0,4-1.8,4-4v-42c0-2.2-1.8-4-4-4H-5.1L-5.1,372z"/>
+	<text transform="matrix(1 0 0 1 18.2238 403.4453)" class="st8 st5 st6">Deutsch</text>
+	<path class="st7" d="M344.9,302c-2.2,0-4,1.8-4,4v42c0,2.2,1.8,4,4,4h272c2.2,0,4-1.8,4-4v-42c0-2.2-1.8-4-4-4H344.9L344.9,302z"/>
+	<text transform="matrix(1 0 0 1 368.2238 333.4453)" class="st8 st5 st6">Slovenski</text>
+	<path class="st7" d="M344.9,372c-2.2,0-4,1.8-4,4v42c0,2.2,1.8,4,4,4h272c2.2,0,4-1.8,4-4v-42c0-2.2-1.8-4-4-4H344.9L344.9,372z"/>
+	<text transform="matrix(1 0 0 1 368.2238 403.4453)" class="st8 st5 st6">Svenska</text>
+	<text transform="matrix(1 0 0 1 22.88 208.875)" class="st4 st9 st10">BACK</text>
+	<path class="st11" d="M-33.1,177c-13.3,0-24,10.7-24,24l0,0c0,13.3,10.7,24,24,24h20c13.3,0,24-10.7,24-24l0,0
+		c0-13.3-10.7-24-24-24H-33.1L-33.1,177z"/>
+	<path class="st12" d="M-40.9,201h35.6 M-27.4,187.5L-40.9,201l13.5,13.5"/>
+	<polyline class="st13" points="233.6,326.4 240.6,333.4 257.1,320 	"/>
+</g>
+</svg>

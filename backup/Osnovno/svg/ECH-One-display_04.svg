@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#000D38;}
+	.st1{fill:#E5FFFF;}
+	.st2{clip-path:url(#SVGID_4_);fill:#E5FFFF;}
+	.st3{clip-path:url(#SVGID_4_);fill:#000D38;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Poppins-Medium';}
+	.st6{font-size:15px;}
+	.st7{fill:none;stroke:#00AAE7;stroke-width:2;}
+	.st8{fill:#00AAE7;}
+	.st9{font-family:'Poppins-Light';}
+	.st10{font-size:36px;}
+	.st11{fill:#324C76;}
+	.st12{fill:#000D38;}
+	.st13{font-family:'Poppins-SemiBold';}
+	.st14{font-size:18px;}
+	.st15{font-size:27px;}
+	.st16{font-size:15.741px;}
+	.st17{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-94" y="156" width="799.9" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="st0" points="-94.1,156 -94.1,636 705.9,636 705.9,156 -94.1,156 		"/>
+	</g>
+	<path class="st1" d="M599.9,438.2v-52c0-2.2-1.8-4-4-4h-216v60h216C598.1,442.2,599.9,440.5,599.9,438.2L599.9,438.2z"/>
+	<path class="st1" d="M270.9,358v-52c0-2.2-1.8-4-4-4h-216v60h216C269.1,362,270.9,360.2,270.9,358L270.9,358z"/>
+	<path class="st1" d="M599.9,357.8v-52c0-2.2-1.8-4-4-4h-216v60h216C598.1,361.8,599.9,360,599.9,357.8L599.9,357.8z"/>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="-94" y="156" width="799.9" height="480"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st2" d="M599.9,518.2v-52c0-2.2-1.8-4-4-4h-216v60h216C598.1,522.2,599.9,520.5,599.9,518.2L599.9,518.2z"/>
+		<polygon class="st3" points="-94.1,156 -94.1,246 705.9,246 705.9,156 -94.1,156 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 22.88 208.875)" class="st4 st5 st6">HOME</text>
+	<path class="st7" d="M-33.1,177c-13.3,0-24,10.7-24,24l0,0c0,13.3,10.7,24,24,24h20c13.3,0,24-10.7,24-24l0,0c0-13.3-10.7-24-24-24
+		H-33.1L-33.1,177z"/>
+	<polygon class="st8" points="-31.1,196.5 -31.1,212.5 -15.1,212.5 -15.1,196.5 -23.1,189.5 -31.1,196.5 	"/>
+	<text transform="matrix(1 0 0 1 539.0284 217)" class="st8 st9 st10">Actions</text>
+	<path class="st11" d="M50.9,302h-56c-2.2,0-4,1.8-4,4v52c0,2.2,1.8,4,4,4h56V302L50.9,302z"/>
+	<path class="st11" d="M379.9,382.2h-56c-2.2,0-4,1.8-4,4v52c0,2.2,1.8,4,4,4h56V382.2L379.9,382.2z"/>
+	<path class="st11" d="M379.9,462.2h-56c-2.2,0-4,1.8-4,4v52c0,2.2,1.8,4,4,4h56V462.2L379.9,462.2z"/>
+	<path class="st11" d="M379.9,301.8h-56c-2.2,0-4,1.8-4,4v52c0,2.2,1.8,4,4,4h56V301.8L379.9,301.8z"/>
+	<text transform="matrix(1 0 0 1 70.88 327.6406)" class="st12 st13 st14">Start </text>
+	<text transform="matrix(1 0 0 1 70.88 349.25)" class="st12 st13 st14">DUST DISCHARGE</text>
+	<text transform="matrix(1 0 0 1 399.88 327.3984)" class="st12 st13 st14">Replace</text>
+	<text transform="matrix(1 0 0 1 399.88 349)" class="st12 st13 st14">PRIMARY FILTER</text>
+	<text transform="matrix(1 0 0 1 399.88 407.8984)" class="st12 st13 st14">Replace </text>
+	<text transform="matrix(1 0 0 1 399.88 429.5)" class="st12 st13 st14">SECONDARY FILTER</text>
+	<text transform="matrix(1 0 0 1 399.88 487.8984)" class="st12 st13 st14">Replace</text>
+	<text transform="matrix(1 0 0 1 399.88 509.5)" class="st12 st13 st14">TERTIARY FILTER</text>
+	<text transform="matrix(1 0 0 1 340.8253 342.4844)" class="st4 st13 st15">1</text>
+	<text transform="matrix(1 0 0 1 350.5909 333.4922)" class="st4 st13 st16">F</text>
+	<text transform="matrix(1 0 0 1 337.9581 422.7422)" class="st4 st13 st15">2</text>
+	<text transform="matrix(1 0 0 1 353.4581 413.75)" class="st4 st13 st16">F</text>
+	<text transform="matrix(1 0 0 1 337.6222 502.9844)" class="st4 st13 st15">3</text>
+	<text transform="matrix(1 0 0 1 353.7941 494)" class="st4 st13 st16">F</text>
+	<path class="st17" d="M8.9,325.8h4 M18.9,325.8h4 M28.9,325.8h4 M13.9,331.8h4 M23.9,331.8h4 M8.9,337.8h4 M18.9,337.8h4
+		 M28.9,337.8h4"/>
+</g>
+</svg>

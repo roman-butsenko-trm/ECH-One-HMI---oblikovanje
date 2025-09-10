@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#000D38;}
+	.st1{fill:none;stroke:#00AAE7;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Poppins-Light';}
+	.st4{font-size:37.5px;}
+	.st5{fill:#00AAE7;}
+	.st6{font-size:36px;}
+	.st7{fill:#000D38;}
+	.st8{font-family:'Poppins-Medium';}
+	.st9{font-size:18px;}
+	.st10{font-size:15px;}
+	.st11{fill:none;stroke:#00AAE7;stroke-width:2;}
+	.st12{fill:none;stroke:#00AAE7;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-94" y="156" width="799.9" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="st0" points="-94.1,156 -94.1,636 705.9,636 705.9,156 -94.1,156 		"/>
+		<polygon class="st0" points="-94.1,156 -94.1,246 705.9,246 705.9,156 -94.1,156 		"/>
+	</g>
+	<path class="st1" d="M465.4,390l-319,0.5V338h319V390L465.4,390z M465.4,526.5l-319,0.5v-52.5h319V526.5L465.4,526.5z"/>
+	<text transform="matrix(1 0 0 1 211.7941 377.6875)" class="st2 st3 st4">27. 8. 2025</text>
+	<text transform="matrix(1 0 0 1 256.8488 514.6875)" class="st2 st3 st4">09:52</text>
+	<text transform="matrix(1 0 0 1 459.1066 217)" class="st5 st3 st6">Date &amp; time</text>
+	<path class="st5" d="M512.9,339c-13.8,0-25,11.2-25,25l0,0c0,13.8,11.2,25,25,25h20c13.8,0,25-11.2,25-25l0,0c0-13.8-11.2-25-25-25
+		H512.9L512.9,339z"/>
+	<text transform="matrix(1 0 0 1 508.5441 370.4453)" class="st7 st8 st9">Set</text>
+	<path class="st5" d="M512.9,474.5c-13.8,0-25,11.2-25,25v3c0,13.8,11.2,25,25,25h20c13.8,0,25-11.2,25-25v-3c0-13.8-11.2-25-25-25
+		H512.9L512.9,474.5z"/>
+	<text transform="matrix(1 0 0 1 508.5441 507.2656)" class="st7 st8 st9">Set</text>
+	<text transform="matrix(1 0 0 1 22.88 208.875)" class="st2 st8 st10">BACK</text>
+	<path class="st11" d="M-33.1,177c-13.3,0-24,10.7-24,24l0,0c0,13.3,10.7,24,24,24h20c13.3,0,24-10.7,24-24l0,0
+		c0-13.3-10.7-24-24-24H-33.1L-33.1,177z"/>
+	<path class="st12" d="M-40.9,201h35.6 M-27.4,187.5L-40.9,201l13.5,13.5"/>
+	<text transform="matrix(1 0 0 1 80.6144 369.1953)" class="st5 st8 st9">Date</text>
+	<text transform="matrix(1 0 0 1 79.1691 506.2031)" class="st5 st8 st9">Time</text>
+</g>
+</svg>

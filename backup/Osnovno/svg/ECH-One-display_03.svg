@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#000D38;}
+	.st1{fill:#324C76;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Poppins-Medium';}
+	.st4{font-size:15px;}
+	.st5{font-family:'Poppins-Regular';}
+	.st6{font-size:35px;}
+	.st7{font-size:17px;}
+	.st8{fill:#5CBCEB;}
+	.st9{fill:#FFB600;}
+	.st10{fill:#FF4545;}
+	.st11{fill:#000D38;}
+	.st12{font-family:'Poppins-SemiBold';}
+	.st13{font-size:27px;}
+	.st14{font-size:15.741px;}
+	.st15{fill:#E5FFFF;}
+	.st16{font-size:18px;}
+	.st17{fill:#10BC74;}
+	.st18{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-94" y="156" width="799.9" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="st0" points="-94.1,156 -94.1,636 705.9,636 705.9,156 -94.1,156 		"/>
+	</g>
+	<polygon class="st1" points="191.9,497 -8.1,497 -8.1,332 191.9,332 191.9,497 	"/>
+	<polygon class="st1" points="156.9,330 -8.1,330 -8.1,191 156.9,191 156.9,330 	"/>
+	<polygon class="st1" points="191.9,330 156.9,330 156.9,191 191.9,191 191.9,330 	"/>
+	<text transform="matrix(1 0 0 1 427.7472 274)" class="st2 st3 st4">TERTIARY FILTER dP</text>
+	<text transform="matrix(1 0 0 1 450.7472 251)" class="st2 st5 st6">688</text>
+	<text transform="matrix(1 0 0 1 517.1378 251)" class="st2 st5 st7"> Pa</text>
+	<text transform="matrix(1 0 0 1 415.9894 383)" class="st2 st3 st4">SECONDARY FILTER dP</text>
+	<text transform="matrix(1 0 0 1 451.5675 360)" class="st2 st5 st6">398</text>
+	<text transform="matrix(1 0 0 1 516.3175 360)" class="st2 st5 st7"> Pa</text>
+	<text transform="matrix(1 0 0 1 429.0597 492)" class="st2 st3 st4">PRIMARY FILTER dP</text>
+	<text transform="matrix(1 0 0 1 450.9581 469)" class="st2 st5 st6">455</text>
+	<text transform="matrix(1 0 0 1 516.9269 469)" class="st2 st5 st7"> Pa</text>
+	<polygon class="st8" points="323.9,192 323.9,211 669.9,211 669.9,192 323.9,192 	"/>
+	<polygon class="st9" points="514,192 514,211 669.9,211 669.9,192 514,192 	"/>
+	<polygon class="st10" points="597.1,192 597.1,211 669.9,211 669.9,192 597.1,192 	"/>
+	<polygon class="st11" points="539.9,198 529.4,212 550.4,212 539.9,198 	"/>
+	<polygon class="st8" points="323.9,301 323.9,320 669.9,320 669.9,301 323.9,301 	"/>
+	<polygon class="st9" points="482.9,301 482.9,320 669.9,320 669.9,301 482.9,301 	"/>
+	<polygon class="st10" points="568.9,301 568.9,320 669.9,320 669.9,301 568.9,301 	"/>
+	<polygon class="st11" points="482.4,307 471.9,321 492.9,321 482.4,307 	"/>
+	<polygon class="st8" points="323.9,410 323.9,429 669.9,429 669.9,410 323.9,410 	"/>
+	<polygon class="st9" points="514,410 514,429 669.9,429 669.9,410 514,410 	"/>
+	<polygon class="st10" points="578.9,410 578.9,429 669.9,429 669.9,410 578.9,410 	"/>
+	<polygon class="st11" points="594.4,416 583.9,430 604.9,430 594.4,416 	"/>
+	<polygon class="st1" points="323.9,211 323.9,281 370.9,281 370.9,211 323.9,211 	"/>
+	<polygon class="st1" points="323.9,320 323.9,390 370.9,390 370.9,320 323.9,320 	"/>
+	<polygon class="st1" points="323.9,429 323.9,499 370.9,499 370.9,429 323.9,429 	"/>
+	<text transform="matrix(1 0 0 1 335.1222 257.2422)" class="st2 st12 st13">3</text>
+	<text transform="matrix(1 0 0 1 351.2941 248.25)" class="st2 st12 st14">F</text>
+	<text transform="matrix(1 0 0 1 335.4581 366.2344)" class="st2 st12 st13">2</text>
+	<text transform="matrix(1 0 0 1 350.9581 357.2422)" class="st2 st12 st14">F</text>
+	<text transform="matrix(1 0 0 1 338.3253 475.2422)" class="st2 st12 st13">1</text>
+	<text transform="matrix(1 0 0 1 348.0909 466.25)" class="st2 st12 st14">F</text>
+	<path class="st15" d="M-29.1,567c-13.8,0-25,11.2-25,25l0,0c0,13.8,11.2,25,25,25h84c13.8,0,25-11.2,25-25l0,0
+		c0-13.8-11.2-25-25-25H-29.1L-29.1,567z"/>
+	<text transform="matrix(1 0 0 1 -21.5731 598.4453)" class="st11 st12 st16">Actions</text>
+	<path class="st15" d="M128.9,567c-13.8,0-25,11.2-25,25l0,0c0,13.8,11.2,25,25,25h84c13.8,0,25-11.2,25-25l0,0
+		c0-13.8-11.2-25-25-25H128.9L128.9,567z"/>
+	<text transform="matrix(1 0 0 1 137.8566 598.4453)" class="st11 st12 st16">Alarms</text>
+	<path class="st15" d="M444.9,567c-13.8,0-25,11.2-25,25l0,0c0,13.8,11.2,25,25,25h84c13.8,0,25-11.2,25-25l0,0
+		c0-13.8-11.2-25-25-25H444.9L444.9,567z"/>
+	<text transform="matrix(1 0 0 1 455.5441 598.4453)" class="st11 st12 st16">Trends</text>
+	<path class="st15" d="M286.9,567c-13.8,0-25,11.2-25,25l0,0c0,13.8,11.2,25,25,25h84c13.8,0,25-11.2,25-25l0,0
+		c0-13.8-11.2-25-25-25H286.9L286.9,567z"/>
+	<text transform="matrix(1 0 0 1 291.4034 598.4453)" class="st11 st12 st16">Settings</text>
+	<path class="st17" d="M630.9,547c-19.3,0-35,15.7-35,35l0,0c0,19.3,15.7,35,35,35l0,0c19.3,0,35-15.7,35-35l0,0
+		C665.9,562.7,650.2,547,630.9,547L630.9,547L630.9,547z"/>
+	<path class="st18" d="M623.6,568.3c-4.9,2.6-8.2,7.7-8.2,13.7c0,8.6,6.9,15.5,15.5,15.5s15.5-6.9,15.5-15.5
+		c0-5.9-3.3-11.1-8.2-13.7 M630.9,563.8v15.3"/>
+</g>
+</svg>

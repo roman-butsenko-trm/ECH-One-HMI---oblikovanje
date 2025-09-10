@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);fill:#000D38;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Poppins-Medium';}
+	.st4{font-size:15px;}
+	.st5{fill:none;stroke:#00AAE7;stroke-width:2;}
+	.st6{fill:none;stroke:#00AAE7;stroke-width:2;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#D0D3DF;stroke-width:2;}
+	.st8{fill:none;stroke:#D0D3DF;stroke-width:2;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000D38;stroke-width:2;}
+	.st10{fill:none;stroke:#000D38;stroke-width:2;stroke-miterlimit:10;}
+	.st11{fill:#324C76;}
+	.st12{fill:#000D38;}
+	.st13{fill:none;stroke:#000D38;stroke-miterlimit:10;}
+	.st14{font-family:'Poppins-SemiBold';}
+	.st15{font-size:17px;}
+	.st16{font-size:14px;}
+	.st17{font-size:16px;}
+	.st18{fill:#C3E3F7;}
+	.st19{fill:#E5F2FC;}
+	.st20{fill:#00AAE7;}
+	.st21{font-family:'Poppins-Light';}
+	.st22{font-size:36px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-94" y="156" width="799.9" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon class="st0" points="-94.1,246 -94.1,636 705.9,636 705.9,246 -94.1,246 		"/>
+		<polygon class="st1" points="-94.1,156 -94.1,246 705.9,246 705.9,156 -94.1,156 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 22.88 208.875)" class="st2 st3 st4">BACK</text>
+	<path class="st5" d="M-33.1,177c-13.3,0-24,10.7-24,24l0,0c0,13.3,10.7,24,24,24h20c13.3,0,24-10.7,24-24l0,0c0-13.3-10.7-24-24-24
+		H-33.1L-33.1,177z"/>
+	<path class="st6" d="M-40.9,201h35.6 M-27.4,187.5L-40.9,201l13.5,13.5"/>
+	<polyline class="st7" points="-50.3,582.7 -59.2,592 -50.3,601.3 	"/>
+	<path class="st8" d="M-53.1,616c13.3,0,24-10.7,24-24s-10.7-24-24-24c-13.3,0-24,10.7-24,24S-66.4,616-53.1,616L-53.1,616z"/>
+	<polyline class="st9" points="662.1,582.7 671,592 662.1,601.3 	"/>
+	<path class="st10" d="M664.9,616c-13.3,0-24-10.7-24-24s10.7-24,24-24s24,10.7,24,24S678.1,616,664.9,616L664.9,616z"/>
+	<rect x="-4.1" y="271" class="st11" width="295" height="28.9"/>
+	<path class="st2" d="M-4.1,299.9h295v7.3h-295V299.9z M-4.1,332.9h100v45h-100V332.9z M95.9,332.9h145v45h-145V332.9z M240.9,332.9
+		h50v45h-50V332.9z M-4.1,377.9h100v45h-100V377.9z M95.9,377.9h145v45h-145V377.9z M240.9,377.9h50v45h-50V377.9z"/>
+	<path class="st12" d="M-4.1,307.2h245v25.7h-245V307.2z M240.9,307.2h50v25.7h-50V307.2z M-4.1,422.9h295v25.7h-295V422.9z"/>
+	<path class="st2" d="M-4.1,448.6h100v45h-100V448.6z M240.9,448.6h50v45h-50V448.6z M-4.1,493.6h100v45h-100V493.6z M240.9,493.6
+		h50v45h-50V493.6z"/>
+	<path class="st2" d="M95.9,448.6h145v45h-145V448.6z M95.9,493.6h145v45h-145V493.6z"/>
+	<path class="st13" d="M-4.1,377.9h100 M95.9,377.9h145 M95.9,493.6h145 M-4.1,493.6h100 M95.9,538.6h145 M240.9,538.6h50
+		 M-4.1,538.6h100"/>
+	<text transform="matrix(1 0 0 1 1.88 292.8516)" class="st2 st14 st15">PRIMARY FILTER LIMIT</text>
+	<text transform="matrix(1 0 0 1 1.88 325.8984)" class="st2 st3 st16">DOGGED WARNING</text>
+	<text transform="matrix(1 0 0 1 1.88 363.7969)" class="st12 st3 st17">dP1m</text>
+	<polygon class="st18" points="105.9,338.1 105.9,372.1 230.9,372.1 230.9,338.1 105.9,338.1 	"/>
+	<text transform="matrix(1 0 0 1 137.9503 363.5547)" class="st12 st3 st17">1500 Pa</text>
+	<path class="st19" d="M269.4,370.9c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C253.9,364,260.8,370.9,269.4,370.9L269.4,370.9z"/>
+	<path class="st12" d="M269.4,352.2c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C268.6,352,268.9,352.2,269.4,352.2L269.4,352.2L269.4,352.2z
+		 M268.1,353v8.3h2.6V353H268.1L268.1,353z"/>
+	<text transform="matrix(1 0 0 1 1.88 408.7969)" class="st12 st3 st17">TdP1m</text>
+	<polygon class="st18" points="105.9,383.6 105.9,417.6 230.9,417.6 230.9,383.6 105.9,383.6 	"/>
+	<text transform="matrix(1 0 0 1 154.1066 409.0469)" class="st12 st3 st17">10 </text>
+	<text transform="matrix(1 0 0 1 174.1144 409.0469)" class="st12 st3 st17">s</text>
+	<path class="st19" d="M269.4,415.9c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C253.9,409,260.8,415.9,269.4,415.9L269.4,415.9z"/>
+	<path class="st12" d="M269.4,397.2c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C268.6,397,268.9,397.2,269.4,397.2L269.4,397.2L269.4,397.2z
+		 M268.1,398v8.3h2.6V398H268.1L268.1,398z"/>
+	<text transform="matrix(1 0 0 1 1.88 441.6016)" class="st2 st3 st16">ALMOST DOGGED WARNING</text>
+	<text transform="matrix(1 0 0 1 1.88 479.5)" class="st12 st3 st17">Psz</text>
+	<polygon class="st18" points="105.9,453.8 105.9,487.8 230.9,487.8 230.9,453.8 105.9,453.8 	"/>
+	<text transform="matrix(1 0 0 1 149.7159 479.2578)" class="st12 st3 st17">80 </text>
+	<text transform="matrix(1 0 0 1 174.3409 479.2578)" class="st12 st3 st17">%</text>
+	<path class="st19" d="M269.4,486.6c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C253.9,479.7,260.8,486.6,269.4,486.6L269.4,486.6z"/>
+	<path class="st12" d="M269.4,467.9c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C268.6,467.7,268.9,467.9,269.4,467.9L269.4,467.9L269.4,467.9
+		z M268.1,468.7v8.3h2.6v-8.3H268.1L268.1,468.7z"/>
+	<text transform="matrix(1 0 0 1 1.88 524.5)" class="st12 st3 st17">TdPsz</text>
+	<polygon class="st18" points="105.9,499.1 105.9,533.1 230.9,533.1 230.9,499.1 105.9,499.1 	"/>
+	<text transform="matrix(1 0 0 1 154.1066 524.5)" class="st12 st3 st17">10 </text>
+	<text transform="matrix(1 0 0 1 174.1144 524.5)" class="st12 st3 st17">s</text>
+	<path class="st19" d="M269.4,531.6c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C253.9,524.7,260.8,531.6,269.4,531.6L269.4,531.6z"/>
+	<path class="st12" d="M269.4,512.9c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C268.6,512.7,268.9,512.9,269.4,512.9L269.4,512.9L269.4,512.9
+		z M268.1,513.7v8.3h2.6v-8.3H268.1L268.1,513.7z"/>
+	<rect x="320.9" y="271" class="st11" width="295" height="28.9"/>
+	<path class="st2" d="M320.9,299.9h295v7.3h-295V299.9z M320.9,332.9h100v45h-100V332.9z M420.9,332.9h145v45h-145V332.9z
+		 M320.9,377.9h100v45h-100V377.9z M420.9,377.9h145v45h-145V377.9z"/>
+	<path class="st12" d="M320.9,307.2h295v25.7h-295V307.2z M320.9,422.9h295v25.7h-295V422.9z"/>
+	<path class="st2" d="M565.9,332.9h50v45h-50V332.9z M565.9,377.9h50v45h-50V377.9z M565.9,448.6h50v45h-50V448.6z M565.9,493.6h50
+		v45h-50V493.6z"/>
+	<path class="st2" d="M320.9,448.6h100v45h-100V448.6z M320.9,493.6h100v45h-100V493.6z"/>
+	<path class="st2" d="M420.9,448.6h145v45h-145V448.6z M420.9,493.6h145v45h-145V493.6z"/>
+	<path class="st13" d="M320.9,377.9h100 M420.9,377.9h145 M420.9,493.6h145 M320.9,493.6h100 M320.9,538.6h100 M565.9,538.6h50
+		 M420.9,538.6h145"/>
+	<text transform="matrix(1 0 0 1 326.88 292.8516)" class="st2 st14 st15">SECONDARY FILTER LIMIT</text>
+	<text transform="matrix(1 0 0 1 326.88 325.8984)" class="st2 st3 st16">DOGGED WARNING</text>
+	<text transform="matrix(1 0 0 1 326.88 363.7969)" class="st12 st3 st17">dP2m</text>
+	<polygon class="st18" points="430.9,338.1 430.9,372.1 555.9,372.1 555.9,338.1 430.9,338.1 	"/>
+	<text transform="matrix(1 0 0 1 466.38 363.5547)" class="st12 st3 st17">700 Pa</text>
+	<path class="st19" d="M594.4,370.9c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C578.9,364,585.8,370.9,594.4,370.9L594.4,370.9z"/>
+	<path class="st12" d="M594.4,352.2c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C593.6,352,593.9,352.2,594.4,352.2L594.4,352.2L594.4,352.2z
+		 M593.1,353v8.3h2.6V353H593.1L593.1,353z"/>
+	<text transform="matrix(1 0 0 1 326.88 408.7969)" class="st12 st3 st17">TdP2m</text>
+	<polygon class="st18" points="430.9,383.6 430.9,417.6 555.9,417.6 555.9,383.6 430.9,383.6 	"/>
+	<text transform="matrix(1 0 0 1 479.1066 409.0469)" class="st12 st3 st17">10 </text>
+	<text transform="matrix(1 0 0 1 499.1144 409.0469)" class="st12 st3 st17">s</text>
+	<path class="st19" d="M594.4,415.9c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C578.9,409,585.8,415.9,594.4,415.9L594.4,415.9z"/>
+	<path class="st12" d="M594.4,397.2c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C593.6,397,593.9,397.2,594.4,397.2L594.4,397.2L594.4,397.2z
+		 M593.1,398v8.3h2.6V398H593.1L593.1,398z"/>
+	<text transform="matrix(1 0 0 1 326.88 441.6016)" class="st2 st3 st16">ALMOST DOGGED WARNING</text>
+	<text transform="matrix(1 0 0 1 326.88 479.5)" class="st12 st3 st17">Ssz</text>
+	<polygon class="st18" points="430.9,453.8 430.9,487.8 555.9,487.8 555.9,453.8 430.9,453.8 	"/>
+	<text transform="matrix(1 0 0 1 474.7159 479.2578)" class="st12 st3 st17">80 </text>
+	<text transform="matrix(1 0 0 1 499.3409 479.2578)" class="st12 st3 st17">%</text>
+	<path class="st19" d="M594.4,486.6c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C578.9,479.7,585.8,486.6,594.4,486.6L594.4,486.6z"/>
+	<path class="st12" d="M594.4,467.9c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C593.6,467.7,593.9,467.9,594.4,467.9L594.4,467.9L594.4,467.9
+		z M593.1,468.7v8.3h2.6v-8.3H593.1L593.1,468.7z"/>
+	<text transform="matrix(1 0 0 1 326.88 524.5)" class="st12 st3 st17">TdSsz</text>
+	<polygon class="st18" points="430.9,499.1 430.9,533.1 555.9,533.1 555.9,499.1 430.9,499.1 	"/>
+	<text transform="matrix(1 0 0 1 479.1066 524.5)" class="st12 st3 st17">10 </text>
+	<text transform="matrix(1 0 0 1 499.1144 524.5)" class="st12 st3 st17">s</text>
+	<path class="st19" d="M594.4,531.6c8.6,0,15.5-6.9,15.5-15.5c0-8.6-6.9-15.5-15.5-15.5s-15.5,6.9-15.5,15.5
+		C578.9,524.7,585.8,531.6,594.4,531.6L594.4,531.6z"/>
+	<path class="st12" d="M594.4,512.9c0.4,0,0.8-0.1,1.1-0.4c0.3-0.3,0.4-0.6,0.4-1c0-0.4-0.1-0.7-0.4-1c-0.3-0.3-0.6-0.4-1.1-0.4
+		c-0.4,0-0.8,0.1-1.1,0.4c-0.3,0.3-0.4,0.6-0.4,1c0,0.4,0.1,0.7,0.4,1C593.6,512.7,593.9,512.9,594.4,512.9L594.4,512.9L594.4,512.9
+		z M593.1,513.7v8.3h2.6v-8.3H593.1L593.1,513.7z"/>
+	<text transform="matrix(1 0 0 1 323.0988 217)" class="st20 st21 st22">Device parameters</text>
+</g>
+</svg>
